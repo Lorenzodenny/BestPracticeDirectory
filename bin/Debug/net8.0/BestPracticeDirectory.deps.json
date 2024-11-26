@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BestPracticeDirectory/1.0.0": {
+        "runtime": {
+          "BestPracticeDirectory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BestPracticeDirectory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

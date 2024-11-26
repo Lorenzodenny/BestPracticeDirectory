@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BestPracticeDirectory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+141be1f19f8a980ef296457f3110df880520f291")]
 [assembly: System.Reflection.AssemblyProductAttribute("BestPracticeDirectory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BestPracticeDirectory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
